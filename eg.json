@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "result": {
+    "domains": [
+      {
+        "name": "acmecorp.dev",
+        "registrable": true,
+        "tier": "standard",
+        "pricing": {
+          "currency": "USD",
+          "registration_cost": "10.11",
+          "renewal_cost": "10.11"
+        }
+      }
+    ]
+  }
+}
